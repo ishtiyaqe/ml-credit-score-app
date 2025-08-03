@@ -1,0 +1,7 @@
+backend/env/
+backend/saved_base_models/
+frontend/node_modules/
+*.parquet
+*.json
+*.pkl
+*.joblib
