@@ -15,6 +15,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/ishtiyaqe" target="_blank">Author</a>
+  <a href="https://drive.google.com/drive/folders/1e7q97rGTdrpBEsPasbZdhn_7hV7IuJpI?usp=sharing" target="_blank">Trained models</a>
 </p>
 
 <br>
